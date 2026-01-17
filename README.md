@@ -109,7 +109,6 @@ Bu proje şu programlama konseptlerini öğretmek amacıyla geliştirilmiştir:
 * ✅ *Kapsülleme* (Encapsulation)
 * ✅ *Timer ve asenkron işlemler*
 * ✅ *Grafik Kullanıcı Arayüzü* (GUI) tasarımı
-* ✅ *Ses ve multimedya entegrasyonu*
 * ✅ *Dosya ve kaynak yönetimi*
 * ✅ *Veri yapıları* (List, Random)
 
