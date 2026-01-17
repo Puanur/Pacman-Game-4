@@ -47,7 +47,7 @@ pacman oyun 4/
     ├── Resources.resx       # Kaynak dosyaları
     └── Settings.Designer.cs  # Ayarlar tasarımcı kodları
 
-## 📦 Bağımlılıklar
+##📦 Bağımlılıklar
 
 ---
 
